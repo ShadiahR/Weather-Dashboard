@@ -1,0 +1,92 @@
+/* Banner Styling */
+.banner {
+    background: linear-gradient(90deg, #f7d2d2, #f9c0c9); /* Pink gradient */
+    color: rgb(90, 53, 79); /*#ffc0cb;; /*#fff; /* White text */
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins'; /* Add cursive elegance */
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 10px; /* Rounded edges */
+    margin-bottom: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  
+  /* Canvas Section Styling */
+  h3 {
+    text-align: center;
+    font-family: 'Cursive', sans-serif; /* Match the banner font */
+    color: rgb(90, 53, 79); /* Hot pink */
+    margin-bottom: 10px;
+  }
+  
+  canvas {
+    border: 2px solid #ffc0cb; /* Light pink border around charts */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add some shadow to charts */
+  }
+
+
+/* Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff; /* Keep it clean to match the banner */
+    color: rgb(90, 53, 79); /*#ffc0cb;; /*#fff; /* White text */
+    padding: 10px 20px;
+    border: 2px solid #ffc0cb; /* Subtle pink border */
+    font-family: 'poppins', cursive; /* Elegant and stylish font */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a light shadow */
+  }
+  
+  /* Logo Styling */
+  .navbar .logo {
+    font-size: 28px;
+    font-family: 'Dancing Script', cursive; /* Elegant and stylish font */
+    color: #ff69b4; /* Hot pink text color */
+    text-shadow: 2px 2px 4px rgba(255, 105, 180, 0.5); /* Barbie-inspired glow */
+    margin-left: 10px; /* Space it nicely from the edge */
+    letter-spacing: 1px; /* Slightly spaced-out letters for elegance */
+    transition: transform 0.3s ease; /* Add a subtle hover effect */
+  }
+  
+  /* Logo Hover Effect */
+  .navbar .logo:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+    text-shadow: 3px 3px 6px rgba(255, 105, 180, 0.8); /* More intense glow */
+  }
+  
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: rgb(90, 53, 79);
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .nav-links li a:hover {
+    text-decoration: underline;
+  }
+  
+ /* Footer Styling */
+.footer {
+    background-color: #ffc0cb; /* Pink background */
+    color: rgb(90, 53, 79);
+    text-align: center;
+    padding: 15px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+  }
+   

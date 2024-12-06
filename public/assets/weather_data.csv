@@ -1,0 +1,8 @@
+City,Temperature (°C),Feels Like (°C),Min Temperature (°C),Max Temperature (°C),Pressure (hPa),Humidity (%),Wind Speed (m/s),Weather Condition,Cloudiness (%)
+London,7.59,7.59,6.95,8.94,1023,76,0.89,broken clouds,75
+New York,2.09,-2.64,0.97,2.98,1025,69,5.66,overcast clouds,100
+Tokyo,12.77,11.85,11.46,13.13,1012,67,2.06,few clouds,20
+Paris,8.25,7.1,7.43,9.1,1022,88,2.06,overcast clouds,100
+Sydney,23.41,23.9,22.35,24.08,1009,80,2.71,broken clouds,81
+Cape Town,23.95,23.86,22.97,24.5,1012,56,3.6,few clouds,20
+Moscow,0.96,-3.39,0.24,1.32,1022,61,4.44,overcast clouds,100
